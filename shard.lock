@@ -1,0 +1,22 @@
+version: 1.0
+shards:
+  crayon:
+    github: molovo/crayon
+    version: 0.1.0
+
+  dotenv:
+    github: gdotdesign/cr-dotenv
+    version: 0.1.0
+
+  herd:
+    github: molovo/herd
+    version: 0.1.1
+
+  redis:
+    github: stefanwille/crystal-redis
+    version: 1.8.0
+
+  tiny:
+    github: molovo/tiny
+    commit: 8ef252b6e29ef245b6fd4843d9c34ab3f2438a14
+
